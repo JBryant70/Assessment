@@ -17,6 +17,7 @@ Install Npm
 ```
 npm install
 ```
+Run App
 ``` 
 npm start
 ```
