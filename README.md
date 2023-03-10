@@ -14,17 +14,16 @@ Mission parameters: Create a REST API that has 3 routes
 
 ### Project Setup
 Install Npm
-'''
+```
 npm install
-'''
-Run App
-'''
+```
+``` 
 npm start
-'''
+```
 This will run the server on port 8080. 
 
 To run Tests 
-'''
+```
 npm test
-'''
+```
 
